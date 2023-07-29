@@ -2,7 +2,6 @@
 <h3 align="center"> I'm İlayda Bulut<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
 <h1 align="center"><img src="https://media.giphy.com/media/BuRqINxjkPRLFMmpUL/giphy.gif"></h1>
 
-<hr/>
 <h4>I am a Junior at FrontEnd Developer. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 
 ## 🙋‍♀️ Let's Connect
